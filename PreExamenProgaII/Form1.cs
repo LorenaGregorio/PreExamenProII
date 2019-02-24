@@ -87,7 +87,7 @@ namespace PreExamenProgaII
                  TipoEmpaque  = "Caja",
                  
                  //bodega
-                 Bodegas = ListaBodeg,
+                 Bodegas = ListaBodega,
 
             };
 
