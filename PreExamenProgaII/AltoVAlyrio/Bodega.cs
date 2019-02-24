@@ -14,9 +14,6 @@ namespace PreExamenProgaII.AltoVAlyrio
 
         public string  Departamento { get; set; }
 
-        public static implicit operator List<object>(Bodega v)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }
